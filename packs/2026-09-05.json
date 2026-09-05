@@ -1,0 +1,21 @@
+{
+  "pack_date": "2026-09-05",
+  "generated_at": "2026-09-05T22:09:10.888546+09:00",
+  "schema_version": 3,
+  "market": {
+    "kospi_close": 6687.2099609375,
+    "kosdaq_close": 813.5,
+    "kospi_20d_change_pct": 6.21
+  },
+  "candidates": [],
+  "excluded": [],
+  "data_freshness": {
+    "excel_date": "2026-09-05",
+    "excel_age_days": 0,
+    "investor_flows_last": null,
+    "investor_flows_age_days": null,
+    "warnings": [
+      "investor_flows_stale"
+    ]
+  }
+}
