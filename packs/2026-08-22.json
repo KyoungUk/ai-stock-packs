@@ -1,6 +1,6 @@
 {
   "pack_date": "2026-08-22",
-  "generated_at": "2026-09-05T16:35:15.635144+09:00",
+  "generated_at": "2026-09-05T16:53:26.992513+09:00",
   "schema_version": 2,
   "market": {
     "kospi_close": 6687.2099609375,
@@ -15469,11 +15469,6 @@
           "price": 5342.42,
           "volume_share_pct": 5.63,
           "distance_pct": 12.0
-        },
-        {
-          "price": 5734.75,
-          "volume_share_pct": 3.13,
-          "distance_pct": 20.23
         }
       ],
       "support": [],
@@ -26459,11 +26454,6 @@
       ],
       "resistance": [
         {
-          "price": 8678.5,
-          "volume_share_pct": 22.53,
-          "distance_pct": 20.53
-        },
-        {
           "price": 8283.17,
           "volume_share_pct": 10.06,
           "distance_pct": 15.04
@@ -26472,6 +26462,11 @@
           "price": 8085.5,
           "volume_share_pct": 6.65,
           "distance_pct": 12.3
+        },
+        {
+          "price": 8480.83,
+          "volume_share_pct": 6.38,
+          "distance_pct": 17.79
         }
       ],
       "support": [],
@@ -35282,11 +35277,6 @@
         }
       ],
       "resistance": [
-        {
-          "price": 30149.9,
-          "volume_share_pct": 4.37,
-          "distance_pct": 20.84
-        },
         {
           "price": 26206.5,
           "volume_share_pct": 3.58,
@@ -81733,11 +81723,6 @@
           "price": 34421.0,
           "volume_share_pct": 3.89,
           "distance_pct": 3.99
-        },
-        {
-          "price": 40187.0,
-          "volume_share_pct": 3.23,
-          "distance_pct": 21.41
         }
       ],
       "support": [
@@ -86173,13 +86158,7 @@
           "share_pct": 4.5
         }
       ],
-      "resistance": [
-        {
-          "price": 24486.17,
-          "volume_share_pct": 4.69,
-          "distance_pct": 20.03
-        }
-      ],
+      "resistance": [],
       "support": [
         {
           "price": 18945.5,
@@ -90570,11 +90549,6 @@
         }
       ],
       "resistance": [
-        {
-          "price": 24064.5,
-          "volume_share_pct": 5.45,
-          "distance_pct": 21.6
-        },
         {
           "price": 22442.17,
           "volume_share_pct": 5.19,
