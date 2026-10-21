@@ -1,0 +1,21 @@
+{
+  "pack_date": "2026-10-21",
+  "generated_at": "2026-10-21T17:31:38.345107+09:00",
+  "schema_version": 3,
+  "market": {
+    "kospi_close": 5735.66015625,
+    "kosdaq_close": 792.760009765625,
+    "kospi_20d_change_pct": -14.59
+  },
+  "candidates": [],
+  "excluded": [],
+  "data_freshness": {
+    "list_shrs_date": "2026-10-19",
+    "list_shrs_age_days": 2,
+    "investor_flows_last": "2026-10-21",
+    "investor_flows_age_days": 0,
+    "warnings": [
+      "no_candidates"
+    ]
+  }
+}
